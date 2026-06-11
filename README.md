@@ -6,14 +6,7 @@
 swiftdelivery/
 ├── index.html              # Main HTML file
 ├── css/                    # Modular CSS files
-│   ├── styles.css         # Main stylesheet (imports all modules)
-│   ├── base.css           # Base styles, variables, resets
-│   ├── header.css         # Header and navigation styles
-│   ├── buttons.css        # Button component styles
-│   ├── sections.css       # Section and content styles
-│   └── footer.css         # Footer styles
-├── js/
-│   └── main.js            # Mobile menu interaction
+│   ├── styles.css         # Main stylesheet (imports all modules,Every component written inside the Index fileaa)
 └── README.md              # This file
 ```
 
@@ -111,21 +104,6 @@ Modify `--spacing` variable or specific padding/margin values in each CSS file.
 - ✅ Progressive enhancement
 - ✅ Print-friendly styles
 - ✅ Performance optimized
-
-## 📄 Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome Android)
-
-## 🎓 Learning Resources
-
-The code is structured for easy learning:
-- Start with `base.css` to understand variables
-- Check `header.css` for component styling
-- Review `sections.css` for layout patterns
-- Look at `buttons.css` for state management
 
 ---
 
