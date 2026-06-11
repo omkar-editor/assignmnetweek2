@@ -1,3 +1,12 @@
+- Intern: Omkar Sharma 
+- GitHub: @omkar-editor
+- Organization: WeIntern Pvt Ltd
+- Program: Web Development Internship – Week 2
+# Objective
+- Build a fully responsive, multi-page company website that functions seamlessly across all screen sizes. The site should reflect professional design standards and include interactive navigation.
+  # Live Link
+  -https://omkar-editor.github.io/assignmnetweek2/
+
 # Swift Delivery - Responsive Business Website
 
 ## 📁 Project Structure
@@ -9,6 +18,12 @@ swiftdelivery/
 │   ├── styles.css         # Main stylesheet (imports all modules,Every component written inside the Index fileaa)
 └── README.md              # This file
 ```
+# Screenshots
+| View | Screenshots| 
+|----------|----------|
+| Home-Desktop | <img width="1261" height="601" alt="image" src="https://github.com/user-attachments/assets/b708edd1-be69-4d26-9caf-731afc01cfc7" />| 
+| Home-Mobile    | <img width="540" height="1132" alt="swift delivery" src="https://github.com/user-attachments/assets/c08be533-49cf-46b9-9f31-f58693704065" /> |
+
 
 ## 🎯 Key Features
 
